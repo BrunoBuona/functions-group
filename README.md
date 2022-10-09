@@ -1,2 +1,3 @@
 # functions-group
-group
+
+Exercises done by Bruno, Joaco, Gabi, Mauro.
